@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/071b58fa-a90c-4774-b5b0-ce5125b29e76)
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000
 " alt="React">
   <img src="![image](https://github.com/user-attachments/assets/cd5342a5-466e-4b6e-b8b8-6b1fd906a061)
 " alt="Next.js">
