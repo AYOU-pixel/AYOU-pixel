@@ -6,10 +6,14 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="![image](https://github.com/user-attachments/assets/071b58fa-a90c-4774-b5b0-ce5125b29e76)
+" alt="React">
+  <img src="![image](https://github.com/user-attachments/assets/cd5342a5-466e-4b6e-b8b8-6b1fd906a061)
+" alt="Next.js">
+  <img src="![image](https://github.com/user-attachments/assets/db6797df-b366-48cb-b37c-ad96d7acf33b)
+" alt="JavaScript">
+  <img src="![image](https://github.com/user-attachments/assets/c0c5a4dc-c5b3-455a-b808-97159a19ee7b)
+" alt="TailwindCSS">
 </div>
 
 ---
