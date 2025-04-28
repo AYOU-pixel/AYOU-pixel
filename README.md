@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Ayoub
 
-<!--
-**AYOU-pixel/AYOU-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Developer | Creative Problem Solver | Passionate About Building Beautiful Web Experiences
 
-Here are some ideas to get you started:
+I'm Ayoub, a self-taught front-end developer based in Morocco 🇲🇦, with a strong passion for building elegant, high-performance websites and applications. I specialize in crafting modern, responsive interfaces using the latest technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Frameworks:** React.js, Next.js
+- **Styling:** Tailwind CSS, SCSS
+- **Tools:** Git, GitHub, VS Code
+
+### 🌟 What I Do
+- Create seamless and interactive front-end experiences
+- Build scalable and performant web apps
+- Turn complex ideas into beautiful user interfaces
+- Constantly learn and adapt to new technologies
+
+### 🛠️ Currently Working On:
+- Building portfolio projects to push my creativity to new levels
+- Exploring new front-end trends and best practices
+- Expanding my full-stack development skills
+
+### 📫 How to Reach Me
+- [Portfolio Website](#) (Coming Soon!)
+- [Email](ayoubprograma@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ayoub-rachd-0b344a322/)
+
+---
+
+> _"I don't just build websites — I craft digital experiences that leave an impact."_ 🚀
