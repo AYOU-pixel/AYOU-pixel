@@ -6,16 +6,13 @@
 </p>
 
 <div align="center">
-  <img src="https://icons8.com/icon/9vlfB9hjA1lX/react" alt="React">
-  <img src="![image](https://github.com/user-attachments/assets/cd5342a5-466e-4b6e-b8b8-6b1fd906a061)
-" alt="Next.js">
-  <img src="![image](https://github.com/user-attachments/assets/db6797df-b366-48cb-b37c-ad96d7acf33b)
-" alt="JavaScript">
-  <img src="![image](https://github.com/user-attachments/assets/c0c5a4dc-c5b3-455a-b808-97159a19ee7b)
-" alt="TailwindCSS">
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -23,10 +20,8 @@ Hey there! I'm **Ayoub**, a passionate **Front-End Developer** from 🇲🇦 **M
 
 - 🌍 I'm a self-taught web enthusiast, constantly learning and pushing the boundaries of **web design** and **front-end development**. 
 - 💻 I specialize in building fast, dynamic, and user-friendly applications using **React.js**, **Next.js**, and **Tailwind CSS**.
-- 🎨 I believe that **great design** is just as important as **clean code**, and I’m always striving to build websites that leave an impression.
+- 🎨 I believe that **great design** is just as important as **clean code**, and I'm always striving to build websites that leave an impression.
 - 📚 Currently exploring **TypeScript** and **Node.js** to make my skills even more 🔥 and take web development to the next level.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -40,46 +35,40 @@ Backend: Node.js | Express | RESTful APIs
 Database: Firebase | MongoDB (Mongoose)
 
 
----
-
 ## 🔥 What I'm Working On
 
-Right now, I’m busy building modern and responsive web applications that deliver smooth, high-performance experiences. Here’s what’s on my plate:
+Right now, I'm busy building modern and responsive web applications that deliver smooth, high-performance experiences. Here's what's on my plate:
 
-- 🚀 **Building intuitive user interfaces** with **React** and **Next.js**.
-- 🌐 **Designing pixel-perfect, responsive websites** using **Tailwind CSS** and modern CSS techniques.
-- ⚡ Creating **custom React hooks** and components that power the next wave of web apps.
-- 🛠️ Exploring **design patterns** and **performance optimizations** to enhance the end-user experience.
-
----
+- 🚀 **Building intuitive user interfaces** with **React** and **Next.js**
+- 🌐 **Designing pixel-perfect, responsive websites** using **Tailwind CSS** and modern CSS techniques
+- ⚡ Creating **custom React hooks** and components that power the next wave of web apps
+- 🛠️ Exploring **design patterns** and **performance optimizations** to enhance the end-user experience
 
 ## 📊 My GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="170px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="170px" />
-</p>
-
----
+</div>
 
 ## 📫 Let's Connect!
 
-I’m always open to **new opportunities**, collaborations, or just a friendly chat about tech! Feel free to connect with me:
+I'm always open to **new opportunities**, collaborations, or just a friendly chat about tech! Feel free to connect with me:
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white)](https://portfolio-2-alpha-seven.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-rachd-0b344a322/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ayoubprograma@gmail.com)
-
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2-alpha-seven.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-rachd-0b344a322/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubprograma@gmail.com)
+  
 </div>
-
----
 
 ## 🌟 Fun Fact
 
 Did you know? I spend my free time **exploring new web technologies**, trying to **optimize performance**, and creating **developer tools** that make coding easier and more fun. 😎
 
-> "I believe in building web experiences that **people** not only use but love!" 🌍
-
----
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240px" />
+  
+  > "I believe in building web experiences that **people** not only use but love!" 🌍
+</div>
