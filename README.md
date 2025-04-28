@@ -46,14 +46,18 @@ I'm **Ayoub**, a self-taught Front-End Developer from 🇲🇦 **Morocco**, with
 
 ---
 
-## 📈 GitHub Insights
 
 ## 📈 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYOU-pixel&show_icons=true&theme=vision-friendly-dark" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYOU-pixel&theme=vision-friendly-dark" height="170px" />
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=AYOU-pixel&show_icons=true&theme=vision-friendly-dark" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYOU-pixel&theme=vision-friendly-dark" height="180px" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOU-pixel&layout=compact&theme=vision-friendly-dark" height="180px" />
+
+</div>
+
 
 ---
 
