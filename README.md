@@ -6,10 +6,10 @@
 </p>
 
 <div align="center">
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 </div>
 
 ---
@@ -27,7 +27,14 @@ Hey there! I'm **Ayoub**, a passionate **Front-End Developer** from 🇲🇦 **M
 
 ## 🛠️ Tech Stack
 
-➤ Frontend: React.js, Next.js, JavaScript, HTML5, CSS3 ➤ Styling: Tailwind CSS, CSS Modules, Styled Components ➤ Tools: Git, VS Code, Figma, Adobe XD ➤ Currently learning: TypeScript, Node.js
+🔥 Core Stack
+Frontend: React.js (Hooks Pro) | Next.js 14 (App Router) | TypeScript
+
+Styling: Tailwind CSS (JIT Mode) | CSS-in-JS | Framer Motion
+
+Backend: Node.js | Express | RESTful APIs
+
+Database: Firebase | MongoDB (Mongoose)
 
 
 ---
@@ -58,9 +65,9 @@ I’m always open to **new opportunities**, collaborations, or just a friendly c
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2-alpha-seven.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-rachd-0b344a322/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubprograma@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white)](https://portfolio-2-alpha-seven.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-rachd-0b344a322/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ayoubprograma@gmail.com)
 
 </div>
 
